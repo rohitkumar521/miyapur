@@ -1,0 +1,4 @@
+Provide an access token
+To access GitHub, you must authenticate with a personal access token instead of your password. For more information, see "Creating a personal access token."
+
+If you are accessing an organization that uses SAML SSO, you must also authorize your personal access token to access the organization before you authenticate. For more information, see "About authentication with SAML single sign-on" and "Authorizing a personal access token for use with SAML single sign-on."
